@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Justin&#39;s Blog</title>
-    <link>http://www.justinsmith.page/tags/</link>
-    <description>Recent content in Tags on Justin&#39;s Blog</description>
+    <title>Tags on Blog Page Template</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Blog Page Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 10:43:59 -0500</lastBuildDate><atom:link href="http://www.justinsmith.page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 16:13:49 -0500</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blue</title>
-      <link>http://www.justinsmith.page/tags/blue/</link>
-      <pubDate>Thu, 15 Jul 2021 10:43:59 -0500</pubDate>
+      <title>Science Fiction</title>
+      <link>http://www.example.com/tags/science-fiction/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:49 -0500</pubDate>
       
-      <guid>http://www.justinsmith.page/tags/blue/</guid>
+      <guid>http://www.example.com/tags/science-fiction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>yellow</title>
-      <link>http://www.justinsmith.page/tags/yellow/</link>
-      <pubDate>Thu, 15 Jul 2021 10:43:59 -0500</pubDate>
+      <title>Sequel</title>
+      <link>http://www.example.com/tags/sequel/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:49 -0500</pubDate>
       
-      <guid>http://www.justinsmith.page/tags/yellow/</guid>
+      <guid>http://www.example.com/tags/sequel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>green</title>
-      <link>http://www.justinsmith.page/tags/green/</link>
-      <pubDate>Mon, 05 Jul 2021 10:43:59 -0500</pubDate>
+      <title>Book</title>
+      <link>http://www.example.com/tags/book/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:36 -0500</pubDate>
       
-      <guid>http://www.justinsmith.page/tags/green/</guid>
+      <guid>http://www.example.com/tags/book/</guid>
       <description></description>
     </item>
     

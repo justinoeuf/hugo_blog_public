@@ -1,6 +1,6 @@
-baseURL = "http://www.justinsmith.page"
+baseURL = "http://www.example.com"
 languageCode = "en-us"
-title = "Justin's Blog Homepage"
+title = "Blog Page Template"
 theme = "hugo-coder"
 
 paginate = 20
@@ -12,15 +12,15 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Justin Smith"
-description = "Justin Smith's personal website"
+author = "Your Name Here"
+description = "Personal Blog"
 keywords = "blog,developer,personal"
-info = ["Engineer | Hobbiest"]
-avatarURL = "images/profile.jpg"
-footerContent = "Welcome to my personal page, stay as long as you'd like" # "Check out my \"Build Your Own SSG\" blog post to learn how you can create a site like this!"
+info = ["A nice blurb about you"]
+avatarURL = "images/profile_pic.jpg"
+footerContent = "The profile image is of a man named Benjamin Banneker. Check him out! " # "Check out my \"Build Your Own SSG\" blog post to learn how you can create a site like this!"
 dateFormat = "January 2, 2006"
 hideFooter = false
-hideCredits = true
+hideCredits = false
 hideCopyright = false
 since = 2021
 
@@ -29,7 +29,7 @@ since = 2021
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
-colorScheme = "light"
+colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 
@@ -39,35 +39,29 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-#[[params.social]]
-#name = "Medium"
-#icon = "fa fa-medium"
-#weight = 5
-#url = "https://medium.com/@jtsmth13"
-
 [[params.social]]
 name = "Github"
 icon = "fa fa-github"
 weight = 4
-url = "https://github.com/justinoeuf/"
+url = "https://github.com/"
 
 [[params.social]]
-name = "About Me"
-icon = "fa fa-child"
+name = "Facebook"
+icon = "fa fa-facebook"
 weight = 1
-url = "http://justinsmith.page/about/"
+url = "https://www.facebook.com/zuck"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram"
 weight = 2
-url = "https://instagram.com/just.in.oeuf/"
+url = "https://www.instagram.com/natgeo"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 3
-url = "https://www.linkedin.com/in/smith-justin-t/"
+url = "https://www.linkedin.com/in/barackobama/"
 
 # Menu bar features
 
@@ -77,14 +71,9 @@ weight = 1
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Reads"
-weight = 3
-url = "https://abrupt-lady-0f4.notion.site/Justin-s-Reading-Log-e2faa36714b2455bb33f1b8020f366f8"
-
-[[languages.en.menu.main]]
 name = "About"
-weight = 4
-url = "http://justinsmith.page/about/"
+weight = 3
+url = "about/"
 
 [[languages.en.menu.main]]
 name = "Projects"
@@ -97,6 +86,6 @@ url = "projects/"
 #url = "contact/"
 
 #[[languages.en.menu.main]]
-#name = "Publications" or maybe "Research"
+#name = "Publications"
 #weight = 5
 #url = "publications/"
