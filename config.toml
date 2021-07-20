@@ -1,0 +1,102 @@
+baseURL = "http://www.justinsmith.page"
+languageCode = "en-us"
+title = "Justin's Blog Homepage"
+theme = "hugo-coder"
+
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+author = "Justin Smith"
+description = "Justin Smith's personal website"
+keywords = "blog,developer,personal"
+info = ["Engineer | Hobbiest"]
+avatarURL = "images/profile.jpg"
+footerContent = "Welcome to my personal page, stay as long as you'd like" # "Check out my \"Build Your Own SSG\" blog post to learn how you can create a site like this!"
+dateFormat = "January 2, 2006"
+hideFooter = false
+hideCredits = true
+hideCopyright = false
+since = 2021
+
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "light"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+#[[params.social]]
+#name = "Medium"
+#icon = "fa fa-medium"
+#weight = 5
+#url = "https://medium.com/@jtsmth13"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-github"
+weight = 4
+url = "https://github.com/justinoeuf/"
+
+[[params.social]]
+name = "About Me"
+icon = "fa fa-child"
+weight = 1
+url = "http://justinsmith.page/about/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-instagram"
+weight = 2
+url = "https://instagram.com/just.in.oeuf/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/smith-justin-t/"
+
+# Menu bar features
+
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 1
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Reads"
+weight = 3
+url = "https://abrupt-lady-0f4.notion.site/Justin-s-Reading-Log-e2faa36714b2455bb33f1b8020f366f8"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 4
+url = "http://justinsmith.page/about/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
+
+#[[languages.en.menu.main]]
+#name = "Contact me"
+#weight = 5
+#url = "contact/"
+
+#[[languages.en.menu.main]]
+#name = "Publications" or maybe "Research"
+#weight = 5
+#url = "publications/"

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin&#39;s Blog</title>
+    <link>http://www.justinsmith.page/</link>
+    <description>Recent content on Justin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 10:43:59 -0500</lastBuildDate><atom:link href="http://www.justinsmith.page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waypoint2</title>
+      <link>http://www.justinsmith.page/posts/wohoo-first-post-vibes2/</link>
+      <pubDate>Thu, 15 Jul 2021 10:43:59 -0500</pubDate>
+      
+      <guid>http://www.justinsmith.page/posts/wohoo-first-post-vibes2/</guid>
+      <description>In grade school, the first page of my class notebooks was always written in deliberate, delicate handwriting and neat page formatting. There were times when, despite our class having already progressed a week or two into the semester, I delayed writing anything down until the day came when the class’s content/lecture was “right” enough for me to markup the first page. To err on the first page was to sully the entire semester!</description>
+    </item>
+    
+    <item>
+      <title>Waypoint</title>
+      <link>http://www.justinsmith.page/posts/wohoo-first-post-vibes/</link>
+      <pubDate>Mon, 05 Jul 2021 10:43:59 -0500</pubDate>
+      
+      <guid>http://www.justinsmith.page/posts/wohoo-first-post-vibes/</guid>
+      <description>&lt;p&gt;In grade school, the first page of my class notebooks was always written in deliberate, delicate handwriting and neat page formatting.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+<li><a class="title" href="{{.Permalink}}">{{.Title}}</a></li>
+<li><em>{{ .PublishDate.Format "January 2, 2006" }}</em>&nbsp|&nbsp<em>Reading Time: {{.ReadingTime}} min</em>&nbsp
+{{ with .Page.Params.Tags }}|&nbsp{{ partial "taxonomy/tags.html" . }}{{ end }}
+</li>
+<li>{{ .Summary }}</li><a class="tag" href='{{.Permalink}}'>Read more</a><br/><br/>
+
+  <!-- previous code below. Still works, but less features
+  <li><a class="title" href="{{.Permalink}}">{{.Title}}</a></li>
+  <li><em>{{ .PublishDate.Format "January 2, 2006" }}  | Reading Time: {{.ReadingTime}} min |&nbsp
+  <span class="tags">
+        {{range .Params.Tags }}
+          <a class="tag" href='{{ "tags/" | absURL }}{{.}}'>{{.}}&nbsp</a></span>
+        {{end}}
+  </em></li>
+  <li>{{ .Summary }}</li><a class="tag" href='{{.Permalink}}'>Read more</a><br/><br/>-->
