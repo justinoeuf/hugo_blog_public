@@ -1,9 +1,10 @@
 ### Build your own blog ###
 This reposity was created to share resources for those looking for a blog template. 99% of the code here was taken from [github/luizepra](https://github.com/luizdepra) and his ["Hugo Coder" Repository](https://github.com/luizdepra/hugo-coder). The other 1% are my changes to the html layout, specifically with regard to how Posts are displayed.
 
-Check out the "Posts" section of luizdepra's Demo site and my "Posts" section for my Demo site to see the main differences.
+Check out the ["Posts"](https://hugo-coder.netlify.app/posts/) section of luizdepra's Demo site and my "Posts" section for my Demo site to see the main differences.
 
 Below is the README.md from the [Hugo Coder Repo](https://github.com/luizdepra/hugo-coder).
+
 ---
 
 <p align="center">
