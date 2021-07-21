@@ -9,8 +9,9 @@ tags = ["Sequel","science Fiction" ]
 categories = []
 externalLink = ""
 series = []
-featuredimage = "/images/book-2/bookcover.jpg"
+featuredimage = ""
 +++
+[bookcover](https://justinoeuf.github.io/hugo_blog_public/images/book_2/bookcover.jpg)
 
 In *The Restaurant at the End of the Universe* (published in 1980), Zaphod is separated from the others and finds he is part of a [conspiracy](https://en.wikipedia.org/wiki/Cabal "Cabal") to uncover who really runs the Universe. Zaphod meets [Zarniwoop](https://en.wikipedia.org/wiki/Minor_characters_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Zarniwoop_[Vann_Harl] "Minor characters from The Hitchhiker's Guide to the Galaxy"), a conspirator and editor for *The Guide*, who knows where to find the secret ruler. Zaphod becomes briefly reunited with the others for a trip to Milliways, the restaurant of the title. Zaphod and Ford decide to steal a ship from there, which turns out to be a stunt ship pre-programmed to plunge into a star as a special effect in a stage show. Unable to change course, the main characters get Marvin to run the teleporter they find in the ship, which is working other than having no automatic control (someone must remain behind to operate it), and Marvin seemingly sacrifices himself. Zaphod and Trillian discover that the Universe is in the safe hands of a simple man living on a remote planet in a wooden shack with his cat.
 
