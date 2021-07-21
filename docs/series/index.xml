@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Blog Page Template</title>
-    <link>http://www.example.com/series/</link>
+    <link>https://justinoeuf.github.io/hugo_blog_public/series/</link>
     <description>Recent content in Series on Blog Page Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.example.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://justinoeuf.github.io/hugo_blog_public/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
