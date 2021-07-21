@@ -3,7 +3,9 @@ This reposity was created to share resources for those looking for a blog templa
 
 Check out the ["Posts"](https://hugo-coder.netlify.app/posts/) section of luizdepra's [Demo](https://hugo-coder.netlify.app/) site and my ["Posts"](https://justinoeuf.github.io/hugo_blog_public/posts/) section for my [Demo](https://justinoeuf.github.io/hugo_blog_public/) site to see the main differences.
 
-Below is the README.md from the [Hugo Coder Repo](https://github.com/luizdepra/hugo-coder).
+This repo can be cloned directly with small edit-- In the config.toml file removed the line that says `publishDir: "docs"`. This was necessary for me to host the site on github.
+
+For full documentation see the source repository from [Hugo Coder](https://github.com/luizdepra/hugo-coder) Below is the README.md from the page
 
 ---
 
