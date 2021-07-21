@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog Page Template</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Blog Page Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jul 2021 16:13:49 -0500</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science Fiction</title>
+      <link>http://www.example.com/tags/science-fiction/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:49 -0500</pubDate>
+      
+      <guid>http://www.example.com/tags/science-fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequel</title>
+      <link>http://www.example.com/tags/sequel/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:49 -0500</pubDate>
+      
+      <guid>http://www.example.com/tags/sequel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>http://www.example.com/tags/book/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:36 -0500</pubDate>
+      
+      <guid>http://www.example.com/tags/book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

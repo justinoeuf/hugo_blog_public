@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequel on Blog Page Template</title>
+    <link>http://www.example.com/tags/sequel/</link>
+    <description>Recent content in Sequel on Blog Page Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jul 2021 16:13:49 -0500</lastBuildDate><atom:link href="http://www.example.com/tags/sequel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Resturant at the End of the Universe</title>
+      <link>http://www.example.com/posts/this-is-also-a-slug/</link>
+      <pubDate>Tue, 20 Jul 2021 16:13:49 -0500</pubDate>
+      
+      <guid>http://www.example.com/posts/this-is-also-a-slug/</guid>
+      <description>In The Restaurant at the End of the Universe (published in 1980), Zaphod is separated from the others and finds he is part of a conspiracy to uncover who really runs the Universe. Zaphod meets Zarniwoop, a conspirator and editor for The Guide, who knows where to find the secret ruler. Zaphod becomes briefly reunited with the others for a trip to Milliways, the restaurant of the title. Zaphod and Ford decide to steal a ship from there, which turns out to be a stunt ship pre-programmed to plunge into a star as a special effect in a stage show.</description>
+    </item>
+    
+  </channel>
+</rss>
