@@ -5,7 +5,7 @@ Check out the ["Posts"](https://hugo-coder.netlify.app/posts/) section of luizde
 
 This repo can be cloned directly with one small edit-- In the config.toml file, remove the line that says `publishDir: "docs"`. This addition was necessary for me to host the site on github.
 
-For full documentation see the source repository from [Hugo Coder](https://github.com/luizdepra/hugo-coder) Below is the README.md from the page:
+For full documentation see the source repository from [Hugo Coder](https://github.com/luizdepra/hugo-coder). Below is the README.md from the page:
 
 ---
 
